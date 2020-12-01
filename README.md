@@ -4,6 +4,8 @@
 
 - 🌱 **I’m currently learning** machine learning technologies and their maths prerequisites.
   
+  View this cool paper I found: [Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency](https://github.com/Laronk/HPBTT)
+  
 - 👯 **I’m looking to collaborate on** ... Well, I'm quite busy these days with the University work and stuff. Message me if you have an interesting idea for a project. We will see ...
 
 <!-- - 🤔 I’m looking for help with ... -->
