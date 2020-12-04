@@ -2,6 +2,8 @@
 
 - 🔭 **I’m currently working on** a couple of opensource personal programming projects. Hopefully, they will be finished soon enough.
 
+- 🖺 [**View my English language CV**](./Jan%20Karpiuk%20CV%20English.pdf)
+
 - 🌱 **I’m currently learning** machine learning technologies and their maths prerequisites.
   
   View this cool paper I found: [Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency](https://github.com/Laronk/HPBTT)
@@ -25,6 +27,6 @@
     
 - 😄 **Pronouns:** He, Him, His
 
-- ⚡ **Fun fact:**
+- ⚡ **Interesting fact:**
 
 [![Spurious correlations graphic](./other%20images/chart.svg)](https://tylervigen.com/spurious-correlations)
